@@ -1,4 +1,4 @@
-# Travel Healthcare ATS
+# Travel Healthcare ATS System
 
 **Full-Stack Applicant Tracking & Staffing Management System for Travel Nursing & Allied Health**
 
