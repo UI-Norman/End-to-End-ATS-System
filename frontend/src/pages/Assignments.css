@@ -1,0 +1,40 @@
+.assignments-page {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 24px;
+}
+
+.days-remaining {
+  padding: 6px 12px;
+  border-radius: 6px;
+  font-size: 13px;
+  font-weight: 600;
+  background: var(--bg-light);
+  color: var(--text-gray);
+  display: inline-block;
+}
+
+.days-remaining.warning {
+  background: #FFF3E0;
+  color: var(--warning-orange);
+}
+
+.days-remaining.urgent {
+  background: #FFEBEE;
+  color: #E74C3C;
+}
+
+.status-active {
+  background: #E8F5E9;
+  color: var(--secondary-green-dark);
+}
+
+.status-completed {
+  background: #E3F2FD;
+  color: var(--primary-blue-dark);
+}
+
+.status-cancelled {
+  background: #F5F5F5;
+  color: var(--text-gray);
+}
